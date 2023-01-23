@@ -54,8 +54,4 @@ JavaScript
 ▼どれくらいの期間をかけたのか？
 
  どの自然言語処理モデルを使えるかなど、方針から1人で考えたので、今の状態に至るまで1ヶ月程かかりました。
-# translate
-# translate
-# translate
-# translate
-# translate
+
